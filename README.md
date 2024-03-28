@@ -70,7 +70,7 @@
   
   | 参数     | 说明     |
   | ------- | ------- |
-  | token   | 验证token |
+  | token   | 验证token.token需付费,请联系购买渠道获取有效的token,否则会初始化失败 |
 
 - **Parser(byte[] bytes, int length)**
   
