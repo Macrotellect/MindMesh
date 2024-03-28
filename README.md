@@ -3,7 +3,7 @@
 脑能网MindMesh是由深圳宏智力科技有限公司开发的团体版脑电采集系统. 该系统最多支持50人的脑波数据采集.
 ![MacDown logo](https://hardware.cn-bj.ufileos.com/guestapk/pp1QQ20240328-1540582x.png)
 
-![MacDown logo](https://hardware.macrotellect.com/guestapk/p1QQ20240328-154058%402x.png)
+![MacDown logo](https://hardware.macrotellect.com/guestapk/pp3QQ20240328-154238%402x%20(1).jpg)
 开发者通过接入脑能网SDK可以获取到头环采集的数据指标（目前仅Windows系统, 不支持iOS、安卓、Linux的接入），通过脑能网SDK可以快速构建属于您的应用。
 ## 数据指标
 数据指标包含专注度、放松度、 α（阿尔法）波、β（贝塔）波、γ（伽玛）波、θ（西塔）波、δ（德尔塔）波. 详细解释见下方的数据说明.
