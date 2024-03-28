@@ -11,7 +11,7 @@
 # 产品说明
 
 ## 系统连接示意图
-![MacDown logo](https://hardware.cn-bj.ufileos.com/guestapk/p4QQ20240328-161605%402x.png)
+![](https://hardware.macrotellect.com/guestapk/pp4QQ20240328-161605%402x.jpg)
 
 为了说明方便, 采集设备在下面的内容里面简称头环.
 系统连接电脑的方法, 可以参考下面的视频链接.
