@@ -34,16 +34,18 @@ https://www.youtube.com/watch?v=UM_S2CRuSk4&t=33s**
 
 ## 脑电波
 脑电波是一种生物电信号. 大脑在活动时，大量神经元同步发生的突触后电位经总和后形成的。它记录大脑活动时的电波变化，是脑神经细胞的电生理活动在大脑皮层或头皮表面的总体反映.
-### 名词解释
 
 ### 参考文献
+文献名: Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness  
 
-## 冥想指标
-
-### 名词解释
+复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness.pdf
+## 放松度
+放松度/Relaxation: 此数值实时反映大脑的放松程度，0为最低，100为最高。试着闭上双眼，深呼吸，放松全身肌肉，你将可以看见该数值的提升。1秒输出1个数值.
 
 ### 参考文献
+文献名: Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance  
 
+复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance%20(1).pdf
 ## 专注度
 
 ### 名词解释
