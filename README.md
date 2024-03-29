@@ -94,6 +94,7 @@ https://www.macrotellect.com/web/academic.html
 
 ### 重要说明
 
+- SDK初始化需要验证token.token需付费,请联系购买渠道获取有效的token,否则会初始化失败
 - 请开发者使用编译器调用Dll完成脑波数据的解析。(支持Python/Unity3D/虚幻引擎/visual studio等)
 - 请开发者需要自行完成COM口的扫描和接收数据的代码.此Dll只负责解析COM口接收到的脑波数据.
 - MindMeshParser接收的是从MindMesh网关串口读取的原始数据
