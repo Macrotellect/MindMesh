@@ -68,15 +68,15 @@ https://www.youtube.com/watch?v=UM_S2CRuSk4&t=33s**
 
 
 
+## 学术发布
+https://www.macrotellect.com/web/academic.html
 
-
-## 参考文献1
-文献名: Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness  
+## 参考文献
+**文献1**: Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness  
 
 复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness.pdf
 
-## 参考文献2
-文献名: Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance  
+**文献2**: Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance  
 
 复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance%20(1).pdf
 
