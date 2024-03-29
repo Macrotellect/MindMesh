@@ -1,4 +1,6 @@
 # 基本介绍
+## 重要说明: SDK初始化需要验证token.token需付费,请联系购买渠道获取有效的token,否则会初始化失败.
+
 ## 系统简介
 脑能网MindMesh是由深圳宏智力科技有限公司开发的团体版脑电采集系统. 该系统最多支持50人的脑波数据采集.
 ![MacDown logo](https://hardware.cn-bj.ufileos.com/guestapk/pp1QQ20240328-1540582x.png)
