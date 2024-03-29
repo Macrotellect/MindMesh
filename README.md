@@ -94,6 +94,8 @@ https://www.macrotellect.com/web/academic.html
 
 ### 重要说明
 
+- 请开发者使用编译器调用Dll完成脑波数据的解析。(支持Python/Unity3D/虚幻引擎/visual studio等)
+- 请开发者需要自行完成COM口的扫描和接收数据的代码.此Dll只负责解析COM口接收到的脑波数据.
 - MindMeshParser接收的是从MindMesh网关串口读取的原始数据
 - MindMesh网关串口名称USB Serial Port，波特率115200，停止位1，数据位8，校验位None
 - 串口初始化示例代码
