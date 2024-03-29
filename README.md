@@ -35,28 +35,50 @@ https://www.youtube.com/watch?v=UM_S2CRuSk4&t=33s**
 ## 脑电波
 脑电波是一种生物电信号. 大脑在活动时，大量神经元同步发生的突触后电位经总和后形成的。它记录大脑活动时的电波变化，是脑神经细胞的电生理活动在大脑皮层或头皮表面的总体反映.
 
-### 参考文献
-文献名: Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness  
 
-复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness.pdf
 ## 放松度
 放松度/Relaxation: 此数值实时反映大脑的放松程度，0为最低，100为最高。试着闭上双眼，深呼吸，放松全身肌肉，你将可以看见该数值的提升。1秒输出1个数值.
 
-### 参考文献
+
+## 专注度
+
+专注度/Attention：此数值实时反映大脑精神的专注集中程度，0为最低，100为最高。保持意识专注于一个事物，或尝试让大脑进入较高强度工作状态（阅读或算数等）可显著提高该项数值。1秒输出1个数值.
+
+
+## 8种基本脑波
+
+8种众所周知的脑电(脑波)电流强度 。8种脑电功率是按如下顺序输出的： delta(0.5-2.75赫兹)，theta（3.5-6.75赫兹），low-alpha(7.5-9.25赫兹)， high-alpha(10-11.75赫兹)，low-beta(13-16.75赫兹)，high-beta(18-29.75 赫兹)，low-gamma(31-39.75赫兹)，mid-gamma(41-49.75赫兹)。这些数值没有单位并且考虑到相对数量和短暂波动，他们只有在互相比较时才有意义。通常每秒钟输出一次。
+
+**德尔塔/Delta脑波（0-3 Hz）**：活动较缓慢的脑波，其在脑电图上的形状则是平缓的曲线，往往在深度睡眠时出现。如果用户清醒状态下出现此数值, 可能是由于皱眉、摆头、眨眼等动作. 这些动作会带来肌肉电, 干扰了脑电的采集.
+
+**西塔/Theta脑波（4-7 Hz）**：浅度睡眠或半醒觉状态，在冥想中深度放松时也会出现Theta脑波。  
+
+**低频阿尔法/Low Alpha脑波（7-9 Hz）**：清醒状态下的深度放松状态。
+
+**高频阿尔法/High Alpha脑波（10-12 Hz）**：轻松且专注，大脑运作较为畅顺，是思考和学习最佳状态。
+
+**低频贝塔/Low Beta脑波（13-17 Hz）**：大脑较为专注的状态，精神开始集中于一项事物时出现, 同时大脑的血氧耗能也会加快。
+
+**高频贝塔/High Beta脑波（18-30 Hz）**：专注力高度集中，警觉或精神紧张的状态时出现。
+
+**低频伽马/Low Gamma脑波（31-39 Hz）**：涉及较高的处理任务以及认知功能。对学习，记忆和信息处理非常重要。同时伴随极端的情绪出现，例如喜乐、亢奋或极度沮丧等。
+
+**高频伽马/High Gamma脑波（41-49 Hz）**：一种较为罕见的脑波，在长期禅修冥想者的入定状态下出现。有研究指出，Gamma波可以提高认知表现，和意识觉知等有极密切的关系。
+
+
+
+
+
+
+## 参考文献1
+文献名: Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness  
+
+复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Angelakis_et_al_2004_Peak_alpha_frequency-an_electroencephalographic_measure_of_cognitive_preparedness.pdf
+
+## 参考文献2
 文献名: Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance  
 
 复制下方链接到浏览器即可下载PDF文件: https://hardware.macrotellect.com/guestapk/Klimesch_1999_EEG_alpha_and_theta_oscillations_reflect_cognitive_and_memory_performance%20(1).pdf
-## 专注度
-
-### 名词解释
-
-### 参考文献
-
-## 放松度
-
-### 名词解释
-
-### 参考文献
 
 # SDK
 
